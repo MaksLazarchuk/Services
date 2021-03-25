@@ -1,0 +1,43 @@
+.header {
+  background-color: transparent;
+  position: fixed;
+  top: 0;
+  z-index: 100;
+  width: 100%;
+}
+.container {
+  width: 1500px;
+  margin: 0 auto;
+  position: relative;
+  height: 150px;
+}
+.logo {
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 165px;
+}
+.link-box {
+  position: relative;
+  width: 720px;
+  height: 150px;
+  margin-left: 650px;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+.link-line {
+  text-align: center;
+  width: 100px;
+  height: 28px;
+}
+.link {
+  text-decoration: none;
+  color: black;
+  font-size: 19px;
+  font-weight: 500;
+}
+.line {
+  width: 100px;
+  height: 4px;
+  background-color: #ff6033;
+}
