@@ -1,11 +1,15 @@
+:root {
+  background-color: rgb(138, 138, 138);
+}
 .header {
-  background-color: transparent;
+  background-color: #f9f8fb;
   position: fixed;
   top: 0;
   z-index: 100;
   width: 100%;
+  display: block;
 }
-.container {
+.header .container {
   width: 1500px;
   margin: 0 auto;
   position: relative;
