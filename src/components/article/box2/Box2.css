@@ -1,0 +1,42 @@
+.box2 {
+  width: 100%;
+  height: 700px;
+  margin: 0 auto;
+  position: relative;
+  background-color: #00b1b1;
+}
+.box2 .container {
+    max-width: 1600px;
+    position: relative;
+    margin: 0 auto;
+}
+.img-box2 {
+  position: absolute;
+  margin-top: 40px;
+  margin-left: 60px;
+}
+.text-container-box2 {
+  position: absolute;
+  width: 475px;
+  height: 300px;
+  margin-top: 170px;
+  margin-right: 155px;
+  right: 0;
+}
+.title-box2 {
+  font-size: 90px;
+  font-weight: 600;
+  margin-top: -8px;
+  margin-left: -2px;
+  color: white;
+}
+.text-box2 {
+  font-size: 15px;
+  margin-top: -80px;
+  color: white;
+  line-height: 1.7;
+  position: relative;
+}
+.text-box2-bottom {
+  margin-top: 20px;
+}

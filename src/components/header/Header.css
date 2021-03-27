@@ -1,5 +1,5 @@
 :root {
-  background-color: rgb(138, 138, 138);
+  background-color: #f9f8fb;
 }
 .header {
   background-color: #f9f8fb;
@@ -10,21 +10,27 @@
   display: block;
 }
 .header .container {
-  width: 1500px;
   margin: 0 auto;
+  max-width: 2000px;
   position: relative;
   height: 150px;
+  display: flex;
+  justify-content: space-between;
 }
 .logo {
-  position: absolute;
+  position: relative;
   margin-top: 50px;
   margin-left: 165px;
+  font-family: "PacificoRegular";
+  font-size: 50px;
 }
 .link-box {
   position: relative;
   width: 720px;
   height: 150px;
-  margin-left: 650px;
+  right: 0;
+  margin-right: 150px;
+  margin-left: 100px;
   align-items: center;
   display: flex;
   justify-content: space-between;
@@ -41,7 +47,13 @@
   font-weight: 500;
 }
 .line {
+  display: none;
+  position: absolute;
   width: 100px;
+  margin-top: -7px;
   height: 4px;
   background-color: #ff6033;
+}
+.link-line:hover .line {
+  display: block;
 }

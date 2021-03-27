@@ -1,12 +1,12 @@
 import "./Header.css";
 import React from "react";
-import logo from "../../media/logo.jpg";
+import "../../fonts.css"
 
 function Header() {
   return (
     <div className="header">
       <div className="container">
-        <img className="logo" src={logo} alt="logo" />
+        <p className="logo">Cahee</p>
         <div className="link-box">
           <div className="link-line">
             <div className="line" />

@@ -18,6 +18,11 @@ function Box1() {
           </p>
           <button className="get-button">GET FREE NOW</button>
         </div>
+        <div className="scroll-container">
+          <div className="border-scroll">
+            <div className="icon-scroll" />
+          </div>
+        </div>
       </div>
     </div>
   );
