@@ -1,11 +1,11 @@
-import "./Box2.css";
+import "./About.css";
 import ImgBox2 from "../../../media/img-box2.png";
 import "../../../fonts.css";
 
-function Box2() {
+function About() {
   return (
     <div className="box2">
-      <div className="container">
+      <div className="container" id="about">
         <img className="img-box2" src={ImgBox2} alt="img" />
         <div className="text-container-box2">
           <p className="title-box2">About Us</p>
@@ -26,4 +26,4 @@ function Box2() {
   );
 }
 
-export default Box2;
+export default About;

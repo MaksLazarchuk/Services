@@ -1,14 +1,16 @@
 import "./App.css";
 import Header from "./components/header/Header.js";
-import Box1 from "./components/article/box1/Box1.js";
-import Box2 from "./components/article/box2/Box2.js";
+import Home from "./components/article/box1/Home.js";
+import About from "./components/article/box2/About.js";
+import Services from "./components/article/box3/Services.js";
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <Box1 />
-      <Box2 />
+      <Home />
+      <About />
+      <Services />
     </div>
   );
 }

@@ -1,6 +1,6 @@
 import "./Header.css";
 import React from "react";
-import "../../fonts.css"
+import "../../fonts.css";
 
 function Header() {
   return (
@@ -10,37 +10,37 @@ function Header() {
         <div className="link-box">
           <div className="link-line">
             <div className="line" />
-            <a className="link" href="home">
+            <a className="link" href="#home">
               HOME
             </a>
           </div>
           <div className="link-line">
             <div className="line" />
-            <a className="link" href="about">
+            <a className="link" href="#about">
               ABOUT
             </a>
           </div>
           <div className="link-line">
             <div className="line" />
-            <a className="link" href="services">
+            <a className="link" href="#services">
               SERVICES
             </a>
           </div>
           <div className="link-line">
             <div className="line" />
-            <a className="link" href="gallery">
+            <a className="link" href="#gallery">
               GALLERY
             </a>
           </div>
           <div className="link-line">
             <div className="line" />
-            <a className="link" href="blog">
+            <a className="link" href="#blog">
               BLOG
             </a>
           </div>
           <div className="link-line">
             <div className="line" />
-            <a className="link" href="contact">
+            <a className="link" href="#contact">
               CONTACT
             </a>
           </div>

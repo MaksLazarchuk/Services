@@ -47,13 +47,12 @@
   font-weight: 500;
 }
 .line {
-  display: none;
   position: absolute;
   width: 100px;
   margin-top: -7px;
   height: 4px;
-  background-color: #ff6033;
+  background-color: transparent;
 }
 .link-line:hover .line {
-  display: block;
+  background-color: #ff6033;
 }

@@ -3,7 +3,7 @@
   height: 1000px;
   margin: 0 auto;
   position: relative;
-  margin-top: 150px !important;
+  padding-top: 150px !important;
   background-color: #f9f8fb;
 }
 .box1 .container {
@@ -74,7 +74,7 @@
   background: #262626;
   margin-left: -2px;
   margin-top: -6px;
-  border-radius: 1px;
+  border-radius: 5px;
   -webkit-animation-duration: 1s;
   animation-duration: 1s;
   -webkit-animation-iteration-count: infinite;

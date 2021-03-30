@@ -6,17 +6,19 @@
   background-color: #00b1b1;
 }
 .box2 .container {
-    max-width: 1600px;
-    position: relative;
-    margin: 0 auto;
+  max-width: 1600px;
+  position: relative;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
 }
 .img-box2 {
-  position: absolute;
+  position: relative;
   margin-top: 40px;
   margin-left: 60px;
 }
 .text-container-box2 {
-  position: absolute;
+  position: relative;
   width: 475px;
   height: 300px;
   margin-top: 170px;
@@ -24,7 +26,7 @@
   right: 0;
 }
 .title-box2 {
-  font-size: 90px;
+  font-size: 94px;
   font-weight: 600;
   margin-top: -8px;
   margin-left: -2px;

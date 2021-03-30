@@ -1,9 +1,9 @@
-import "./Box1.css";
+import "./Home.css";
 import backgroundBox1 from "../../../media/background-box1.jpg";
 
-function Box1() {
+function Home() {
   return (
-    <div className="box1">
+    <div className="box1" id="home">
       <div className="container">
         <img
           className="background-box1"
@@ -28,4 +28,4 @@ function Box1() {
   );
 }
 
-export default Box1;
+export default Home;

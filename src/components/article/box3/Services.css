@@ -1,0 +1,81 @@
+.box3 {
+  width: 100%;
+  height: 790px;
+  margin: 0 auto;
+  position: relative;
+  background-color: #70bfff;
+}
+.box3 .container {
+  max-width: 1600px;
+  position: relative;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-evenly;
+}
+.text-background {
+  position: relative;
+  height: 530px;
+  width: 540px;
+  margin-top: 100px;
+}
+.name-box {
+  position: absolute;
+  margin-top: 205px;
+  color: white;
+  font-size: 94px;
+  font-weight: 600;
+}
+.tomato-background {
+  position: absolute;
+  margin-left: 80px;
+}
+.service-button {
+  height: 460px;
+  width: 400px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-top: 180px;
+}
+.box-button-services {
+  position: relative;
+  text-decoration: none;
+  display: flex;
+  justify-content: space-between;
+  border: none;
+  width: 400px;
+  height: 100px;
+  background-color: white;
+  box-shadow: 0px 2px 5px -0.5px #000000;
+  cursor: pointer;
+  outline: none;
+}
+.box-button-services:hover {
+  background-color: #e5e3e9;
+}
+.text-button {
+  width: 300px;
+  height: 100%;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 0px;
+  font-size: 22px;
+  font-weight: 600;
+  color: #262626;
+  border-right: 1px solid #9d9d9d;
+}
+.icon {
+  margin-top: 24px;
+  margin-right: 22px;
+  position: relative;
+  font-size: 49px;
+  color: #262626;
+}
+.icon-shop {
+  font-size: 44px;
+  margin-top: 29px;
+}
