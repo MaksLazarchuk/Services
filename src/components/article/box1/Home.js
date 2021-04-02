@@ -4,12 +4,8 @@ import backgroundBox1 from "../../../media/background-box1.jpg";
 function Home() {
   return (
     <div className="box1" id="home">
+      <img className="background-box1" src={backgroundBox1} alt="background" />
       <div className="container">
-        <img
-          className="background-box1"
-          src={backgroundBox1}
-          alt="background"
-        />
         <div className="text-container">
           <p className="title-box1">Fresh Life</p>
           <p className="text-box1">

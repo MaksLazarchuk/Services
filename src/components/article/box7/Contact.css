@@ -1,0 +1,127 @@
+.box7 {
+  width: 100%;
+  height: 865px;
+  margin: 0 auto;
+  position: relative;
+}
+.box7 .container {
+  max-width: 1600px;
+  position: relative;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+.background-box7 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+.text-container-box7 {
+  position: relative;
+  width: 370px;
+  margin-top: 95px !important;
+  height: 200px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+.title-box7 {
+  position: relative;
+  font-size: 94px;
+  font-weight: 600;
+  color: #262626;
+  text-align: center;
+  margin-top: -18px;
+}
+.text-box7 {
+  font-size: 15px;
+  margin-top: -65px;
+  color: #262626;
+  line-height: 1.7;
+  position: relative;
+  text-align: center;
+}
+.content-contact {
+  position: relative;
+  width: 1000px;
+  height: 450px;
+  margin-top: 20px !important;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+.communication {
+  width: 480px;
+  height: 460px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.communication input {
+  font-size: 17px;
+  width: 100%;
+  height: 50px;
+  padding-left: 20px;
+  font-family: "RalewayBold";
+  background-color: #11b4b48c;
+  border: none;
+  outline: none;
+  color: white;
+}
+.communication .message-contact {
+  width: 100%;
+  font-family: "RalewayBold";
+  font-size: 17px;
+  padding-top: 20px;
+  padding-left: 20px;
+  height: 230px;
+  resize: none;
+  outline: none;
+  background-color: #11b4b48c;
+  border: none;
+  color: white;
+}
+.contac-form-btn {
+  width: 0px;
+  height: 0px;
+  border: none;
+  background-color: transparent;
+}
+.communication input::placeholder {
+  color: white;
+}
+.communication .message-contact::placeholder {
+  color: white;
+}
+.communication input:focus {
+  background-color: #00c4c4;
+  border-left: 5px solid #355b82;
+}
+.communication .message-contact:focus {
+  background-color: #00c4c4;
+  border-left: 5px solid #355b82;
+}
+.con-dictates {
+  position: relative;
+  width: 330px;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.dictates {
+  margin-top: -20px;
+}
+.dictates p {
+  color: #262626;
+  font-size: 19px;
+}
+.than-contact {
+  font-weight: 600;
+}
+.dictates-contact {
+  margin-top: -15px;
+}
