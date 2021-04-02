@@ -1,0 +1,39 @@
+.footer {
+  width: 100%;
+  height: 90px;
+  margin: 0 auto;
+  position: relative;
+  background-color: #262626;
+}
+.footer .container {
+  max-width: 1600px;
+  position: relative;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+}
+.copyright {
+  position: relative;
+  font-family: "PacificoRegular";
+  font-size: 16px;
+  margin-top: 35px;
+  color: #b9b9b9;
+}
+.logo-footer {
+  position: relative;
+  font-family: "PacificoRegular";
+  font-size: 25px;
+  margin-top: 32px;
+  color: #b9b9b9;
+}
+.made {
+  position: relative;
+  font-family: "PacificoRegular";
+  font-size: 16px;
+  margin-top: 35px;
+  color: #b9b9b9;
+}
+.made span {
+  color: #f52b55;
+  font-weight: 700;
+}

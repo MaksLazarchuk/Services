@@ -13,7 +13,8 @@
   justify-content: space-between;
 }
 .img-box5 {
-  position: relative;
+  position: absolute;
+  right: 0;
 }
 .subscribe-container-box5 {
   position: relative;
@@ -63,5 +64,5 @@
   font-size: 19px;
 }
 .subscribe-button:hover {
-    background-color: #68930d;
+  background-color: #68930d;
 }

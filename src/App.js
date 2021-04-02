@@ -7,6 +7,7 @@ import Gallery from "./components/article/box4/Gallery.js";
 import Subscribe from "./components/article/box5/Subscribe.js";
 import Blog from "./components/article/box6/Blog.js";
 import Contact from "./components/article/box7/Contact.js";
+import Footer from "./components/footer/Footer.js";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <Subscribe />
       <Blog />
       <Contact />
+      <Footer />
     </div>
   );
 }

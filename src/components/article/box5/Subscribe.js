@@ -6,6 +6,7 @@ function Subscribe() {
   return (
     <div className="box5">
       <div className="container">
+        <img className="img-box5" src={ImgBox5} alt="background" />
         <div className="subscribe-container-box5">
           <div className="text-container-box5">
             <p className="title-box5">Subscribe To Us</p>
@@ -27,7 +28,6 @@ function Subscribe() {
             </button>
           </form>
         </div>
-        <img className="img-box5" src={ImgBox5} alt="background" />
       </div>
     </div>
   );
