@@ -21,8 +21,9 @@
   position: relative;
   margin-top: 50px;
   margin-left: 165px;
-  font-family: "PacificoRegular";
-  font-size: 50px;
+  font-family: 'PacificoRegular';
+  line-height: 50px;
+  font-size: 40px;
 }
 .link-box {
   position: relative;
@@ -44,7 +45,7 @@
   text-decoration: none;
   color: black;
   font-size: 19px;
-  font-weight: 500;
+  font-family: "RalewayBold";
 }
 .line {
   position: absolute;

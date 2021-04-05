@@ -28,15 +28,16 @@
 }
 .title-box5 {
   font-size: 40px;
-  font-weight: 600;
+  font-family: 'RalewayBold';
   margin-top: -8px;
   margin-left: -2px;
   color: #262626;
   position: relative;
 }
 .text-box5 {
-  font-size: 15px;
+  font-size: 16px;
   margin-top: -20px;
+  font-family: 'RalewayLight';
   color: #262626;
   line-height: 1.7;
   position: relative;
@@ -46,7 +47,8 @@
   padding-left: 20px;
   height: 53px;
   border: 1px solid #262626;
-  margin-top: 15px;
+  font-family: 'RalewayLight';
+  margin-top: 16px;
   font-size: 20px;
   color: #262626;
   outline-color: #68930d;
@@ -57,11 +59,12 @@
 .subscribe-button {
   margin-left: 30px;
   width: 170px;
+  font-family: 'RalewayLight';
   height: 56px;
   border: none;
   background-color: #96b92c;
   color: white;
-  font-size: 19px;
+  font-size: 20px;
 }
 .subscribe-button:hover {
   background-color: #68930d;

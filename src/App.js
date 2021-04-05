@@ -13,14 +13,16 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <Home />
-      <About />
-      <Services />
-      <Gallery />
-      <Subscribe />
-      <Blog />
-      <Contact />
-      <Footer />
+      <main>
+        <Home />
+        <About />
+        <Services />
+        <Gallery />
+        <Subscribe />
+        <Blog />
+        <Contact />
+        <Footer />
+      </main>
     </div>
   );
 }

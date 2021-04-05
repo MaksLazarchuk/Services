@@ -22,8 +22,8 @@
   position: absolute;
   margin-top: 205px;
   color: white;
-  font-size: 94px;
-  font-weight: 600;
+  font-size: 88px;
+  font-family: 'RalewayBold';
 }
 .tomato-background {
   position: absolute;
@@ -64,7 +64,7 @@
   text-align: center;
   margin-top: 0px;
   font-size: 22px;
-  font-weight: 600;
+  font-family: 'RalewayBold';
   color: #262626;
   border-right: 1px solid #9d9d9d;
 }

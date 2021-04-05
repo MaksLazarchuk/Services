@@ -14,26 +14,26 @@
 }
 .copyright {
   position: relative;
-  font-family: "PacificoRegular";
-  font-size: 16px;
+  font-family: "RalewayLight";
+  font-size: 17px;
   margin-top: 35px;
-  color: #b9b9b9;
+  color: #aaaaaa;
 }
 .logo-footer {
   position: relative;
   font-family: "PacificoRegular";
   font-size: 25px;
-  margin-top: 32px;
+  line-height: 40px;
   color: #b9b9b9;
 }
 .made {
   position: relative;
-  font-family: "PacificoRegular";
-  font-size: 16px;
+  font-family: "RalewayLight";
+  font-size: 17px;
   margin-top: 35px;
   color: #b9b9b9;
 }
 .made span {
   color: #f52b55;
-  font-weight: 700;
+  font-family: "RalewayBold";
 }

@@ -27,17 +27,18 @@
 }
 .title-box2 {
   font-size: 94px;
-  font-weight: 600;
   margin-top: -8px;
   margin-left: -2px;
+  font-family: 'RalewayBold';
   color: white;
 }
 .text-box2 {
-  font-size: 15px;
+  font-size: 17px;
   margin-top: -80px;
   color: white;
   line-height: 1.7;
   position: relative;
+  font-family: 'RalewayLight';
 }
 .text-box2-bottom {
   margin-top: 20px;
