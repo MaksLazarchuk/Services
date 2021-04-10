@@ -15,7 +15,7 @@ function Contact() {
           </p>
         </div>
         <div className="content-contact">
-          <form className="communication">
+          <form className="communication" method="post">
             <input
               type="name"
               name="name"

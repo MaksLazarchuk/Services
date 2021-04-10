@@ -29,7 +29,7 @@
   font-size: 94px;
   margin-top: -8px;
   margin-left: -2px;
-  font-family: 'RalewayBold';
+  font-family: "RalewayBold";
   color: white;
 }
 .text-box2 {
@@ -38,8 +38,31 @@
   color: white;
   line-height: 1.7;
   position: relative;
-  font-family: 'RalewayLight';
+  font-family: "RalewayLight";
 }
 .text-box2-bottom {
   margin-top: 20px;
+}
+@media (max-width: 1235px) {
+  .box2 {
+    height: 810px;
+  }
+  .img-box2 {
+    margin-top: 100px;
+  }
+}
+@media (max-width: 1000px) {
+  .img-box2 {
+    display: none;
+  }
+  .box2 {
+    height: 600px;
+  }
+  .box2 .container {
+    justify-content: center;
+  }
+  .text-container-box2 {
+    margin-top: 150px;
+    margin-right: 0;
+  }
 }
