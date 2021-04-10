@@ -123,10 +123,36 @@
   color: #262626;
   font-size: 19px;
 }
+.dictates a {
+  color: #262626;
+  font-size: 19px;
+  margin-top: -20px;
+}
 .than-contact {
   font-family: "RalewayBold";
 }
 .dictates-contact {
   margin-top: -15px;
   font-family: "RalewayLight";
+  text-decoration: none;
+  color: #262626;
+  font-size: 19px;
+  margin-top: 20px;
+}
+@media (max-width: 878px) {
+  .box7 {
+    height: 1120px;
+  }
+  .content-contact {
+    flex-direction: column-reverse;
+    height: 850px;
+    align-items: center;
+    margin-top: -20px !important;
+  } 
+  .communication {
+    margin-top: -70px;
+  }
+  .dictates {
+    text-align: center;
+  }
 }

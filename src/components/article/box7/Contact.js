@@ -59,11 +59,13 @@ function Contact() {
             </div>
             <div className="dictates">
               <p className="than-contact">EMAIL</p>
-              <p className="dictates-contact">cahee@domain.com</p>
+              <a href="mailto:cahee@domain.com" className="dictates-contact">cahee@domain.com</a>
             </div>
             <div className="dictates">
               <p className="than-contact">PHONE</p>
-              <p className="dictates-contact">+012 345 6789</p>
+              <a href="tel:+0123456789" className="dictates-contact">
+                +012 345 6789
+              </a>
             </div>
           </div>
         </div>
