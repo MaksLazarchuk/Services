@@ -37,3 +37,19 @@
   color: #f52b55;
   font-family: "RalewayBold";
 }
+@media (max-width: 590px) {
+  .footer {
+    height: 130px;
+  }
+  .footer .container {
+    flex-direction: column-reverse;
+    justify-content: space-evenly;
+    text-align: center;
+  }
+  .copyright {
+    margin-top: -13px;
+  }
+  .made {
+    display: none;
+  }
+}

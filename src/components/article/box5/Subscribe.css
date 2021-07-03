@@ -92,4 +92,28 @@
     width: 575px;
     height: 300px;
   }
+  .subscribe-button {
+    margin-left: 0px;
+  }
+}
+@media (max-width: 590px) {
+  .email-sub {
+    width: 370px;
+  }
+  .subscribe-container-box5 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    height: 315px;
+  }
+  .title-box5 {
+    text-align: center;
+  }
+  .text-container-box5 {
+    width: 370px;
+  }
+  .text-box5 {
+    text-align: center;
+  }
 }

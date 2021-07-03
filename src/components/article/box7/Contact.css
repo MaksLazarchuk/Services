@@ -148,11 +148,17 @@
     height: 850px;
     align-items: center;
     margin-top: -20px !important;
-  } 
+  }
   .communication {
     margin-top: -70px;
   }
   .dictates {
     text-align: center;
+  }
+}
+@media (max-width: 590px) {
+  .communication {
+    width: 370px;
+    margin-left: -20px;
   }
 }

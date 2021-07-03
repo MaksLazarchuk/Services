@@ -66,3 +66,24 @@
     margin-right: 0;
   }
 }
+@media (max-width: 590px) {
+  .box2 {
+    height: 500px;
+  }
+  .title-box2 {
+    font-size: 60px;
+    width: 100%;
+    text-align: center;
+    margin-top: -80px;
+    margin-left: 0px;
+  }
+  .text-box2 {
+    margin-top: -35px;
+  }
+  .text-box2-bottom {
+    margin-top: 20px;
+  }
+  .text-container-box2 {
+    width: 370px;
+  }
+}

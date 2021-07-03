@@ -107,3 +107,12 @@
     top: 35px;
   }
 }
+@media (max-width: 590px) {
+  .container {
+    display: flex;
+    justify-content: center;
+  }
+  .text-container {
+    margin-left: 0px;
+  }
+}

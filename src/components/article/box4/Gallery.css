@@ -159,3 +159,26 @@
     margin-top: 15px;
   }
 }
+@media (max-width: 799px) {
+  .box4 {
+    height: 1890px;
+  }
+  .gallery-img {
+    width: 370px !important;
+    height: 260px !important;
+  }
+  .gallery-box {
+    height: 1425px;
+  }
+}
+@media (max-width: 590px) {
+  .box4 {
+    height: 1950px;
+  }
+  .text-container-box4 {
+    width: 370px;
+  }
+  .gallery-box {
+    margin-top: 90px;
+  }
+}

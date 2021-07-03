@@ -181,3 +181,14 @@
     height: 1015px;
   }
 }
+@media (max-width: 590px) {
+  .box6 {
+    height: 1540px;
+  }
+  .text-container-box6 {
+    width: 370px;
+  }
+  .blog-con-img {
+    margin-top: 90px;
+  }
+}
