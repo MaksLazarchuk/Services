@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/services/static/css/main.7927e413.chunk.css",
+    "main.js": "/services/static/js/main.94069d34.chunk.js",
+    "main.js.map": "/services/static/js/main.94069d34.chunk.js.map",
+    "runtime-main.js": "/services/static/js/runtime-main.09f45bb8.js",
+    "runtime-main.js.map": "/services/static/js/runtime-main.09f45bb8.js.map",
+    "static/js/2.403c9f3e.chunk.js": "/services/static/js/2.403c9f3e.chunk.js",
+    "static/js/2.403c9f3e.chunk.js.map": "/services/static/js/2.403c9f3e.chunk.js.map",
+    "static/js/3.b1d47882.chunk.js": "/services/static/js/3.b1d47882.chunk.js",
+    "static/js/3.b1d47882.chunk.js.map": "/services/static/js/3.b1d47882.chunk.js.map",
+    "index.html": "/services/index.html",
+    "static/css/main.7927e413.chunk.css.map": "/services/static/css/main.7927e413.chunk.css.map",
+    "static/js/2.403c9f3e.chunk.js.LICENSE.txt": "/services/static/js/2.403c9f3e.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/services/static/media/icomoon.02a30d83.woff",
+    "static/media/background-box1.84bed219.jpg": "/services/static/media/background-box1.84bed219.jpg",
+    "static/media/background-box7.666d66ca.jpg": "/services/static/media/background-box7.666d66ca.jpg",
+    "static/media/blog-img1.7bc7cbf6.jpg": "/services/static/media/blog-img1.7bc7cbf6.jpg",
+    "static/media/blog-img2.1ee8c52e.jpg": "/services/static/media/blog-img2.1ee8c52e.jpg",
+    "static/media/blog-img3.b48d5830.jpg": "/services/static/media/blog-img3.b48d5830.jpg",
+    "static/media/gallery1.980baf64.jpg": "/services/static/media/gallery1.980baf64.jpg",
+    "static/media/gallery2.c5cb74ee.jpg": "/services/static/media/gallery2.c5cb74ee.jpg",
+    "static/media/gallery3.dac5fcd0.jpg": "/services/static/media/gallery3.dac5fcd0.jpg",
+    "static/media/gallery4.cf3201c9.jpg": "/services/static/media/gallery4.cf3201c9.jpg",
+    "static/media/gallery5.55341090.jpg": "/services/static/media/gallery5.55341090.jpg",
+    "static/media/img-box2.1bffe5a5.png": "/services/static/media/img-box2.1bffe5a5.png",
+    "static/media/img-box5.1e828b7c.jpg": "/services/static/media/img-box5.1e828b7c.jpg",
+    "static/media/tomato-background.fb5fab3d.png": "/services/static/media/tomato-background.fb5fab3d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09f45bb8.js",
+    "static/js/2.403c9f3e.chunk.js",
+    "static/css/main.7927e413.chunk.css",
+    "static/js/main.94069d34.chunk.js"
+  ]
+}
